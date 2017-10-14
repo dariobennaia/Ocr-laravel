@@ -1,0 +1,11 @@
+.resultado-ocr {
+    background-color: #e4e4e4;
+    height: 200px;
+    overflow: scroll;
+}
+.progress-top {
+    margin-top: -29px;
+}
+.progress-bar {
+    width: 0%;
+}
