@@ -1,11 +1,38 @@
+body {
+    background-color: #eaeaea;
+}
 .resultado-ocr {
     background-color: #e4e4e4;
     height: 200px;
     overflow: scroll;
 }
 .progress-top {
-    margin-top: -29px;
+    margin-top: -31px;
 }
 .progress-bar {
     width: 0%;
+}
+.navbar-background {
+    height: 80px !important;
+}
+.logo-ateneu {
+    position: absolute;
+    overflow: hidden;
+    top: 70%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+footer {
+    background-color: rgb(3, 63, 136);
+    color: white;
+}
+.btn-limpar-margin-bottom {
+    margin-bottom: 50%;
+}
+.container {
+    margin-top: 90px;
 }
