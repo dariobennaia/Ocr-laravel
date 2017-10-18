@@ -8,6 +8,7 @@
     "keywords": ["OCR"],
     "license": "MIT",
     "type": "project",
+    "version": "v1.1.1",
     "require": {
         "php": ">=7.0.0",
         "fideloper/proxy": "~3.3",
