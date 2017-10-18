@@ -16,8 +16,7 @@
         "laravel/framework": "5.5.*",
         "laravel/tinker": "~1.0",
         "laravelcollective/html": "^5.2.0",
-        "thiagoalessio/tesseract_ocr": "1.0.0-RC",
-        "config/ocr": "V1.1.1"
+        "thiagoalessio/tesseract_ocr": "1.0.0-RC"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
