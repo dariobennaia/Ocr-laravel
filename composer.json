@@ -1,7 +1,11 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "dariosantos/ocr",
+    "description": "OCR system.",
+    "author":[{
+        "name": "Dário Bennaia Araújo Santos",
+        "email": "dariobennaia@gmail.com"
+    }],
+    "keywords": ["OCR"],
     "license": "MIT",
     "type": "project",
     "require": {
