@@ -6,7 +6,9 @@ O DBSystemOCR é um sistema que se baseia na tecnologia OCR para a conversão de
 
 - PHP 7.0 >=
 - Composer
-
+- Tesseract OCR: <br> 
+  [Linux] -> sudo apt-get install tesseract-ocr
+          
 ## Instalação:
 
 Para instalar o sistema rode o seguinte comando.

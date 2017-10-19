@@ -46,7 +46,7 @@
 
 <!-- rodapé -->
 <footer class="container-fluid bg-4 navbar-fixed-bottom text-center">
-    <p>Desenvolvido por:</p>
+    <p>DBSystem OCR : v1.1.1 | Desenvolvido por:</p>
     <strong>Dário Santos</strong><br>
     <strong>Jones Bob</strong>
 </footer>
